@@ -1,0 +1,14 @@
+Words    	 Frequency            	 Followed Vocab 
+the      	 30096 	 ['complete', 'use', 'united', 'world', 'terms', 'project', 'united', 'laws', 'country', 'end'] 
+and      	 28371 	 ['most', 'with', 'cleopatra', 'juliet', 'cressida', 'the', 'adonis', 'only', 'tender', 'thee'] 
+i        	 21890 	 ['may', 'do', 'behold', 'see', 'question', 'my', 'have', 'fortune', 'in', 'derive'] 
+to       	 20895 	 ['check', 'thine', 'thy', 'the', 'eat', 'say', 'be', 'stop', 'be', 'those'] 
+of       	 18816 	 ['william', 'anyone', 'the', 'the', 'the', 'this', 'william', 'this', 'william', 'william'] 
+----------------------------------
+Followed Word Frequency  " my" 
+Words    	 Frequency           
+lord     	 1640                      
+heart    	 342                       
+life     	 239                       
+good     	 231                       
+father   	 225                       

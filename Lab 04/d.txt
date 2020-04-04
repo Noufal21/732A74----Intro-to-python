@@ -1,0 +1,82 @@
+Total Number of words in the file : 918142 
+Total Number of unique words : 30934. 
+TOP 5 Words  
+the      
+----------------------------------
+Followed Word Frequency  " the " 
+Words    	 Frequency           
+king     	 744                       
+world    	 433                       
+duke     	 364                       
+gods     	 211                       
+time     	 203                       
+------------------------------------------
+and      
+----------------------------------
+Followed Word Frequency  " and " 
+Words    	 Frequency           
+the      	 867                       
+so       	 432                       
+to       	 412                       
+in       	 409                       
+his      	 374                       
+------------------------------------------
+to       
+----------------------------------
+Followed Word Frequency  " to " 
+Words    	 Frequency           
+the      	 1559                      
+be       	 1042                      
+my       	 507                       
+me       	 494                       
+you      	 395                       
+------------------------------------------
+of       
+----------------------------------
+Followed Word Frequency  " of " 
+Words    	 Frequency           
+the      	 1623                      
+my       	 760                       
+his      	 634                       
+this     	 560                       
+your     	 519                       
+------------------------------------------
+you      
+----------------------------------
+Followed Word Frequency  " you " 
+Words    	 Frequency           
+are      	 757                       
+have     	 685                       
+shall    	 447                       
+to       	 358                       
+and      	 283                       
+------------------------------------------
+------------------------------
+Alphabet Frequency
+Key      	 Frequency 
+e        	 480970   
+t        	 354107   
+o        	 332717   
+a        	 309408   
+i        	 268911   
+s        	 266424   
+n        	 260133   
+h        	 255742   
+r        	 251863   
+l        	 180723   
+d        	 158715   
+u        	 137354   
+m        	 117435   
+y        	 99484    
+w        	 96315    
+c        	 91697    
+f        	 86140    
+g        	 72858    
+b        	 64067    
+p        	 61506    
+v        	 40149    
+k        	 37823    
+x        	 5331     
+j        	 4905     
+q        	 3961     
+z        	 1842     
